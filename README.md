@@ -8,3 +8,5 @@
 - [Лабораторная работа №6](https://github.com/rtpadalko/TMO/tree/ENSEMBLES_2)
 ## Ссылка на рубежный контроль
 - [Рубежный контроль №1](https://github.com/rtpadalko/TMO/tree/rk1)
+## Ссылка на НИРС
+- [НИРС](https://github.com/rtpadalko/TMO/tree/NIRS)
