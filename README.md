@@ -10,4 +10,4 @@
 - [Рубежный контроль №1](https://github.com/rtpadalko/TMO/tree/rk1)
 - [Рубежный контроль №2](https://github.com/rtpadalko/TMO/tree/rk2)
 ## Ссылка на НИРС:
-- [НИРС](https://github.com/rtpadalko/TMO/tree/NIRS)
+- [НИРС](https://github.com/rtpadalko/TMO/tree/NIR)
